@@ -1,0 +1,11 @@
+
+The Theory of General Relativity demonstrates that Black Holes are hidden by an Event Horizon.
+Soon after publishing the special theory of relativity in 1905, 
+Einstein started thinking about how to incorporate gravity into his new relativistic 
+framework. There is nothing here. In 1907, beginning with a simple thought experiment involving an observer 
+in free fall, he embarked on what would be an eight-year search for a 
+relativistic theory of gravity. After numerous detours and false starts, 
+his work culminated in the presentation to the Prussian Academy of Science in November 1915 
+of what are now known as the Einstein field equations, which form the core of 
+Einstein's famous Theory of General Relativity. These equations specify how the 
+geometry of space and time is influenced by whatever matter and radiation are present. 
